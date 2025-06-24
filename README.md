@@ -38,6 +38,3 @@ See the `frontend/README.md` for details on how to run and develop the React app
 - [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 - [React documentation](https://reactjs.org/)
 
-## License
-
-Specify your license here.
