@@ -2,7 +2,7 @@
 
 ## Description
 
-PRODIGY_FS_01 is a Authorization project that demonstrates authentication functionality with a frontend built using React (bootstrapped with Create React App). The repository is organized with a `frontend` directory containing the React codebase. The project provides a starting point for building applications with authentication and user management features.
+PRODIGY_FS_01 is a Secure User Authorization project that demonstrates authentication functionality with a frontend built using React (bootstrapped with Create React App). The repository is organized with a `frontend` directory containing the React codebase. The project provides a starting point for building applications with authentication and user management features.
 
 ## Frontend
 
