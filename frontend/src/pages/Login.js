@@ -27,7 +27,7 @@ function Login() {
             return handleError('email and password are required')
         }
         try {
-            const url = `https://authorization-ten-delta.vercel.app/auth/login`;
+            const url = `https://autho-kgt7om951-santhojis-projects.vercel.app/auth/login`;
             const response = await fetch(url, {
                 method: "POST",
                 headers: {
